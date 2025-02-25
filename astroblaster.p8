@@ -4,7 +4,7 @@ __lua__
 function _init()
 
 -- save data
- cartdata("pronti_asstroblaster")
+ cartdata("pronti_astroblaster")
 
 -- position
  px = 60
